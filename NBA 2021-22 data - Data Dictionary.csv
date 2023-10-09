@@ -1,0 +1,37 @@
+Variable Name,Abbreviated Name,Description
+Draft Year,DRAFTYEAR,The year the player was drafted
+Player,PLAYER,The name of the player
+Draft Team,DRAFTTEAM,The team that the player was drafted by in 2021
+Affiliation,AFFILIATION,The team or league that the player was affiliated with prior to the 2021 draft
+Team,TEAM,The team(s) that the player played for during the 2021-2022 season
+Round Number,ROUNDNUMBER,The round during which the player was drafted (1 or 2)
+Round Pick,ROUNDPICK,The number that the player was picked within the first or second round of the draft (1 to 30)
+Overall Pick,OVERALLPICK,The number that the player was picked during the overall draft in 2021 (1 to 60)
+Rank,Rk,Ranking of the player during the 2021-2022 season
+Position,Pos,Position of the player on the team
+Age,Age,Player's age on February 1 of the season
+Games,G,Games played during the 2021-2022 season
+Games Started,GS,Games started during the 2021-2022 season
+Minutes Played,MP,Minutes played per game during the 2021-2022 season
+Field Goals Per Game,FG,Field goals made (includes 2 and 3 pointers)
+Field Goal Attempts,FGA,Field goal attempts per game (includes 2 and 3 pointers)
+Field Goal Percentage,FGPER,Percentage of field goals made out of attempted field goals (includes 2 and 3 pointers)
+3-Point Field Goals,X3P,3-Point field goals made per game
+3-Point Field Goal Attempts,X3PA,3-Point field goal attempts per game
+3-Point Field Goal Percentage,X3PPER,Percentage of 3-point field goals made out of attempted 3-point field goals
+2-Point Field Goals,X2P,2-point field goals made per game
+2-Point Field Goal Attempts,X2PA,2-point field goal attempts per game
+2-Point Field Goal Percentage,X2PPER,Percentage of 2-point field goals made out of attempted 2-point field goals per game
+Effective Field Goal Percentage,eFGPER,"Percentage of field goals made out of attempted field goals, adjusted for the fact that a 3-point field goal is worth one more point than a 2-point field goal; formula: ((FGM + (0.5 * 3PM)) / FGA"
+Free Throws,FT,Free throws made per game
+Free Throw Attempts,FTA,Free throw attempts per game
+Free Throw Percentage,FTPER,Percentage of free throws made out of attempted free throws per game
+Offensive Rebounds,ORB,The number of rebounds a player or team has collected per game while they were on offense; A rebound occurs when a player recovers the ball after a missed shot.
+Defensive Rebounds,DRB,The number of rebounds a player or team has collected per game while they were on defense; A rebound occurs when a player recovers the ball after a missed shot.
+Total Rebounds,TRB,The number of rebounds a player or team has collected per game; a rebound occurs when a player recovers the ball after a missed shot.
+Assists,AST,Number of passes that lead directly to a made basket per game
+Steals,STL,"Number of times a defensive player or team takes the ball from a player on offense, causing a turnover, per game"
+Blocks,BLK,"Blocks per game; A block occurs when an offensive player attempts a shot, and the defense player tips the ball, blocking their chance to score"
+Turnovers,TOV,Turnovers per game; A turnover occurs when the player or team on offense loses the ball to the defense
+Personal Fouls,PF,The number of personal fouls the player committed per game
+Points,PTS,The number of points the player scored per game
